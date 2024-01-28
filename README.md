@@ -5,9 +5,8 @@
 "Shoot Shoot" is a fast-paced top-down shooter where players face endless waves of enemies. The goal is simple: survive as long as possible while defeating incoming enemies and collecting pickups to replenish ammunition and extend your life.
 
 ## Getting Started
-
 1. Clone the repository:
-   
+    
    ```bash
    git clone https://github.com/finnleygrange/ShootShoot.git
    ```
