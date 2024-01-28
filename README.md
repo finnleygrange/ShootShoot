@@ -1,6 +1,6 @@
 # Shoot Shoot
 
-![Gameplay Screenshot](screenshot.png)
+[![Shoot Shoot](https://ytcards.demolab.com/?id=9jYZqDkpeIw&title=Shoot+Shoot&lang=en&timestamp=1611440858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=500&border_radius=5 "Shoot Shoot")](https://www.youtube.com/watch?v=9jYZqDkpeIw)
 
 "Shoot Shoot" is a fast-paced top-down shooter where players face endless waves of enemies. The goal is simple: survive as long as possible while defeating incoming enemies and collecting pickups to replenish ammunition and extend your life.
 
@@ -18,15 +18,6 @@
 
 Download the latest release [here](https://github.com/finnleygrange/ShootShoot/releases).
 
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-
 ## Contributing
 
 If you would like to contribute to "Shoot Shoot," please fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
